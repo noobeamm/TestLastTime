@@ -1,0 +1,15 @@
+{
+  "name": "TestLastTime",
+  "version": "0.0.0",
+  "description": "TestLastTime",
+  "main": "app.js",
+  "author": {
+    "name": "BeamT",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
